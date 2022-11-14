@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Post-Management/static/css/main.287eca64.css",
+    "main.js": "/Post-Management/static/js/main.fb187fbd.js",
+    "static/js/787.a6f4b9a7.chunk.js": "/Post-Management/static/js/787.a6f4b9a7.chunk.js",
+    "index.html": "/Post-Management/index.html",
+    "main.287eca64.css.map": "/Post-Management/static/css/main.287eca64.css.map",
+    "main.fb187fbd.js.map": "/Post-Management/static/js/main.fb187fbd.js.map",
+    "787.a6f4b9a7.chunk.js.map": "/Post-Management/static/js/787.a6f4b9a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287eca64.css",
+    "static/js/main.fb187fbd.js"
+  ]
+}
